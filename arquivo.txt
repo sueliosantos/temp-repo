@@ -6,5 +6,7 @@ git config --global user.name "Suélio Santos"
 git config --global user.email "sueliosantos@gmail.com"
 git remote origem 
 
+#para iniciar
+eval "$(ssh-agent -s)"
 # chave
 ssh-add /c/Users/sueli/.ssh/id_rsa
