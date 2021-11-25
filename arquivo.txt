@@ -1,3 +1,10 @@
 um teste qualquer nesse arquivo
 
-OI
+# iniciando o git
+git init
+git config --global user.name "Suélio Santos"
+git config --global user.email "sueliosantos@gmail.com"
+git remote origem 
+
+# chave
+ssh-add /c/Users/sueli/.ssh/id_rsa
